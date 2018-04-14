@@ -1,4 +1,4 @@
-package com.lyy.cms;
+package com.lyy.devicecontrol;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

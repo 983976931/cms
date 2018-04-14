@@ -1,4 +1,4 @@
-package com.lyy.cms;
+package com.lyy.devicecontrol;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
